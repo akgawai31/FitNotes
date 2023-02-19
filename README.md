@@ -35,10 +35,10 @@ For zip downloads, unzip the folder and go to step 4.
    ii) flask run  
    
    
-  ![Screenshot (2)](https://user-images.githubusercontent.com/76953374/219940291-351f75fe-83bd-497e-a423-c939d8a6461b.png)
   ![Screenshot (3)](https://user-images.githubusercontent.com/76953374/219940317-1cb23289-23af-45a1-a2d5-f33f8b9885ab.png)
   ![Screenshot (4)](https://user-images.githubusercontent.com/76953374/219940327-ce5a0767-c63c-44bd-8772-1e8ce4d91031.png)
   ![Screenshot (5)](https://user-images.githubusercontent.com/76953374/219940337-46d7b784-ab82-4a7b-a494-2d89bd175bbd.png)
   ![Screenshot (7)](https://user-images.githubusercontent.com/76953374/219940355-d5d67fea-3cf6-4dd9-80ea-e88624c2b0da.png)
   ![Screenshot (9)](https://user-images.githubusercontent.com/76953374/219940367-c6d77c6d-0c8e-4532-a337-edcf5065e341.png)
   ![Screenshot (11)](https://user-images.githubusercontent.com/76953374/219940385-686d3fa8-3314-4efe-8bc0-8251e8e56516.png)
+  ![Screenshot (10)](https://user-images.githubusercontent.com/76953374/219940459-32e47492-e6ef-426e-86e5-1cd4daca517b.png)
