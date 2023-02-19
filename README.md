@@ -33,3 +33,7 @@ For zip downloads, unzip the folder and go to step 4.
    Mac OS/Linux:  
    i) export FLASK_APP=main  
    ii) flask run  
+   
+   
+  ![Screenshot (2)](https://user-images.githubusercontent.com/76953374/219940291-351f75fe-83bd-497e-a423-c939d8a6461b.png)
+
