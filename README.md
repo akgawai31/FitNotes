@@ -20,10 +20,12 @@ For zip downloads, unzip the folder and go to step 4.
    iv) exit()  
 
    if not work do above step in flask shell:
+   ```
    i) flask shell
    ii) from application import db
    iii) db.create_all()
    iv) exit()
+   ```
 7) Set up the enviroment variables and run the app.  
    Windows:  
    i) $env:FLASK_APP = "main"  
